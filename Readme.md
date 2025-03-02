@@ -17,8 +17,6 @@ A simple e-commerce cart system built with **React** and **Node.js** as part of 
 4. [Setup Instructions](#setup-instructions)
 5. [Usage](#usage)
 6. [Screenshots](#screenshots)
-7. [Evaluation Rubric](#evaluation-rubric)
-8. [Anti-Plagiarism Measures](#anti-plagiarism-measures)
 
 ---
 
@@ -142,7 +140,7 @@ Persistence
 
 Cart items persist across page refreshes until checkout is completed and "Continue Shopping" is clicked.
 
-##Scereenshots
+## Scereenshots
 
 ![API OUTPUT](image.png)
 ![Home](image-1.png)
